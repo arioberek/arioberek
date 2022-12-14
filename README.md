@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React and Node.js**
 
-- 📫 How to reach me **contact@arielton.com**
+- 📫 Reach me on **contact@arielton.com**
 
 - ⚡ Fun fact **I know how to solve a Rubik's cube in less than 25 seconds**
 
