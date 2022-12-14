@@ -12,7 +12,7 @@
 
 - 📫 Reach me on **contact@arielton.com**
 
-- ⚡ Fun fact **I know how to solve a Rubik's cube in less than 25 seconds**
+- ⚡ Fun fact: **I know how to solve a Rubik's cube in less than 25 seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
