@@ -5,7 +5,6 @@
 
 
 
-- 🔭 I’m currently working on [Notes to Strangers](https://notestostrangers.space)
 
 - 🌱 I’m currently learning **RedwoodJS**
 
