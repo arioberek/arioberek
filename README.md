@@ -6,11 +6,10 @@
 
 
 
-- 🌱 I’m currently learning **RedwoodJS**
+
+- 💼 I'm currently working at [Medcloud](https://medcloud.link) using React.js, Node.js & AWS
 
 - 👨‍💻 Some of my projects are available at [https://arielton.com](https://arielton.com)
-
-- 💬 Ask me about **React and Node.js**
 
 - 📫 Reach me on **contact@arielton.com**
 
