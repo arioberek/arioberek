@@ -9,6 +9,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://arielton.com](https://arielton.com)
 
-- 📫 Reach me on **contact@arielton.com**
+- 📫 Reach me at **contact@arielton.com**
 
 - ⚡ Fun fact: **I can solve a Rubik's cube in less than 25 seconds**
