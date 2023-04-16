@@ -5,7 +5,6 @@
 
 
 
-- 💼 I'm currently working at [Medcloud](https://medcloud.link) using React.js, Node.js & AWS
 
 - 👨‍💻 Some of my projects are available at [https://arielton.com](https://arielton.com)
 
