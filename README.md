@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arielton!</h1>
 <h3 align="center">Full-stack developer based in Brazil</h3>
 
-![](https://komarev.com/ghpvc/?username=arioberek&color=brightgreen)
-
-
-
-
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=arioberek&color=brightgreen" />
+</div>
 
 - 👨‍💻 Some of my projects are available at [https://arielton.com](https://arielton.com)
 
