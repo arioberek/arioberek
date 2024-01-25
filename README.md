@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arielton!</h1>
 <h3 align="center">Full-stack developer based in Brazil</h3>
-![](https://komarev.com/ghpvc/?arioberek)
 
+
+![](https://komarev.com/ghpvc/?arioberek)
 
 
 
