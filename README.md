@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"> <a href="https://github.com/arioberek" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/oberek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/arioberek" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/oberek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="center">🚀Passionate about technology and constantly driven by the pursuit of innovation, I thrive in creating solutions that bridge the gap between complex problems and user-friendly applications. As a software engineer with expertise in JavaScript, Python, Go, and Rust, I am committed to crafting seamless digital experiences, whether it’s building robust backend systems, enhancing front-end interactivity, or optimizing performance for real-world applications.</h3>**
 
@@ -43,4 +43,4 @@
 
  **<h3 align="left">Support Me</h3>**
 
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a> <a href="https://buymeacoffee.com/arielton" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=flat&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://buymeacoffee.com/arielton" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=flat&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
