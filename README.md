@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **Grupo Energia, an electrical engineering services provider company**
 - 🌱 I'm currently learning: **📚 Exploring Golang & Functional programming**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js and RESTful APIs**
 - ⚡ Fun fact: **🎲 I can solve a rubik's cube in under 25 seconds**
 - 📂 Portfolio: **<a href="https://arielton.com" target="_blank">https://arielton.com</a>**
 
