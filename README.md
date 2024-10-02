@@ -15,12 +15,12 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/arioberek" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/oberek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="center">🚀Passionate about technology and constantly driven by the pursuit of innovation, I thrive in creating solutions that bridge the gap between complex problems and user-friendly applications. As a software engineer with expertise in JavaScript, Python, Go, and Rust, I am committed to crafting seamless digital experiences, whether it’s building robust backend systems, enhancing front-end interactivity, or optimizing performance for real-world applications.</h3>**
+ **<h3 align="center">🚀Passionate about technology and constantly driven by the pursuit of innovation, I thrive in creating solutions that bridge the gap between complex problems and user-friendly applications. As a software engineer with expertise in JavaScript, Python & Golang, I am committed to crafting seamless digital experiences, whether it’s building robust backend systems, enhancing front-end interactivity, or optimizing performance for real-world applications.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Grupo Energia, an electrical engineering services provider company**
-- 🌱 I'm currently learning: **📚 Exploring Golang & Functional programming**
+- 🌱 I'm currently: **📚 Exploring Golang & Functional programming**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js and RESTful APIs**
 - ⚡ Fun fact: **🎲 I can solve a rubik's cube in under 25 seconds**
 - 📂 Portfolio: **<a href="https://arielton.com" target="_blank">https://arielton.com</a>**
