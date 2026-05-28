@@ -8,7 +8,7 @@ nothing useful past this point, only SVGs and badges. carry on.
 
 <img src="https://komarev.com/ghpvc/?username=arioberek&label=profile%20views&color=0E75B6&style=for-the-badge" alt="profile views" />
 
-I'm a software developer from Brazil. I work on [**maqnar.io**](https://maqnar.io), a fleet-management platform for farms: telemetry, predictive maintenance, and cost analytics across tractors, harvesters, and implements. Available in PT, EN, ES, and NL.
+I'm a software developer from Brazil. I work on [**maqnar.io**](https://maqnar.io), a fleet-management platform for farms: telemetry, predictive maintenance, and cost analytics across tractors, harvesters, and implements.
 
 On the side, I review PRs across a small pile of personal projects, mess with new toolchains, and break something on a free-tier VPS at 2am. I pick up a new language every few months for fun. Lately it's been Go; before that Nim; before that I was writing tiny C++ HTTP servers because, why not.
 
