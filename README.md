@@ -39,10 +39,6 @@ On the side, I review PRs across a small pile of personal projects, mess with ne
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arioberek&theme=react" alt="repos per language" />
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arioberek&theme=react" alt="most-commit language" />
 </p>
-<p>
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arioberek&theme=react&utcOffset=-3" alt="productive time" />
-  <img height="200" src="https://streak-stats.demolab.com/?user=arioberek&theme=react&hide_border=true" alt="streak" />
-</p>
 
 #### Quote roulette
 
